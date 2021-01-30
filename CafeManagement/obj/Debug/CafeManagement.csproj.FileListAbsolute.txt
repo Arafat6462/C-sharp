@@ -1,0 +1,17 @@
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\bin\Debug\CafeManagement.exe.config
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\bin\Debug\CafeManagement.exe
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\bin\Debug\CafeManagement.pdb
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.csprojAssemblyReference.cache
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.exe
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.pdb
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\bin\Debug\Guna.UI2.dll
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.Dashboard.resources
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.Login.resources
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\bin\Debug\CafeManagement.exe.manifest
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\bin\Debug\CafeManagement.application
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.exe.manifest
+C:\Users\Arafa\OneDrive\Documents\c#\CafeManagement\obj\Debug\CafeManagement.application

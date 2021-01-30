@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeManagement", "CafeManagement.csproj", "{5171C231-47EA-461F-9349-5B8ACF9BB1A2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "my app setup", "..\my app setup\my app setup.vdproj", "{B0C7C9C5-9406-45D9-82D1-E4ED4987326E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "my app", "..\my app\my app.vdproj", "{5946F55C-FB53-4F11-AD59-EEDEE9A1D4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5171C231-47EA-461F-9349-5B8ACF9BB1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5171C231-47EA-461F-9349-5B8ACF9BB1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5171C231-47EA-461F-9349-5B8ACF9BB1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5171C231-47EA-461F-9349-5B8ACF9BB1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C7C9C5-9406-45D9-82D1-E4ED4987326E}.Debug|Any CPU.ActiveCfg = Debug
+		{B0C7C9C5-9406-45D9-82D1-E4ED4987326E}.Release|Any CPU.ActiveCfg = Release
+		{5946F55C-FB53-4F11-AD59-EEDEE9A1D4D4}.Debug|Any CPU.ActiveCfg = Debug
+		{5946F55C-FB53-4F11-AD59-EEDEE9A1D4D4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D71891-9881-4B8E-9806-76D4868F3DEC}
+	EndGlobalSection
+EndGlobal
