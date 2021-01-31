@@ -1,0 +1,7 @@
+C:\Users\Arafa\OneDrive\Documents\C#\firstExample Lab\bin\Debug\firstExample Lab.exe.config
+C:\Users\Arafa\OneDrive\Documents\C#\firstExample Lab\bin\Debug\firstExample Lab.exe
+C:\Users\Arafa\OneDrive\Documents\C#\firstExample Lab\bin\Debug\firstExample Lab.pdb
+C:\Users\Arafa\OneDrive\Documents\C#\firstExample Lab\obj\Debug\firstExample Lab.csprojAssemblyReference.cache
+C:\Users\Arafa\OneDrive\Documents\C#\firstExample Lab\obj\Debug\firstExample Lab.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\OneDrive\Documents\C#\firstExample Lab\obj\Debug\firstExample Lab.exe
+C:\Users\Arafa\OneDrive\Documents\C#\firstExample Lab\obj\Debug\firstExample Lab.pdb

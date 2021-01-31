@@ -4,18 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hello_World
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello arafat sdfdd");
-
- 
-    
         }
-
-       
     }
 }
