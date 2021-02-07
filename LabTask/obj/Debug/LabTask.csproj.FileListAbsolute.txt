@@ -1,0 +1,7 @@
+C:\Users\Arafa\OneDrive\Documents\C#\LabTask\bin\Debug\LabTask.exe.config
+C:\Users\Arafa\OneDrive\Documents\C#\LabTask\bin\Debug\LabTask.exe
+C:\Users\Arafa\OneDrive\Documents\C#\LabTask\bin\Debug\LabTask.pdb
+C:\Users\Arafa\OneDrive\Documents\C#\LabTask\obj\Debug\LabTask.csprojAssemblyReference.cache
+C:\Users\Arafa\OneDrive\Documents\C#\LabTask\obj\Debug\LabTask.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\OneDrive\Documents\C#\LabTask\obj\Debug\LabTask.exe
+C:\Users\Arafa\OneDrive\Documents\C#\LabTask\obj\Debug\LabTask.pdb

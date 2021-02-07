@@ -2,16 +2,28 @@
  
 namespace firstExample_Lab
 {
-    class Program
+    class Carspeed
     {
+        private float acceleration;
+        private string engin_number;
+        private bool start;
+        private float time;
         static void Main(string[] args)
         {
-             Console.Write("enter a number please : ");
+            start_car();
 
-            int i = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine((i+1) + " " + (i+2) + " " + (i+3));
 
-             Console.ReadKey();
+         }
+
+        Carspeed(float acceleration = 0, string engin_number = "", bool start = false)
+        {
+
+        }
+
+        public static void start_car()
+        {
+            start = true;
+            Console.WriteLine("hekahj");
         }
     }
 }
