@@ -8,11 +8,13 @@ namespace LabTask
         private bool start;
         private float time;
 
+      
         public CarSpeed(float acceleration = 0, string engin_number = "", bool start = false )
         {
             this.acceleration = acceleration;
             this.engin_number = engin_number;
             this.start = true;
+            Console.WriteLine(" i am in parameterized constructor");
           }
         
         public bool Start { get => start; set => start = value; }
@@ -58,18 +60,18 @@ namespace LabTask
         {
             for(int i=0; i<3; i++)
             {
-                Console.WriteLine("\n\t\tdetails for car " + (i+1));
+                Console.WriteLine("\n\t\tdetails for car " + (i + 1));
                 Console.WriteLine("\t**********************************");
                 CarSpeed carSpeed = new CarSpeed();
 
                 Console.Write("\nEnter the engine number : ");
                 carSpeed.set_engin_number(Console.ReadLine());
-                
+
                 Console.Write("\nEnter the acceleration : ");
                 carSpeed.set_acceleration(float.Parse(Console.ReadLine()));
-                
+
                 Console.Write("\nEnter the time : ");
-                carSpeed.time=float.Parse((Console.ReadLine()));
+                carSpeed.time = float.Parse((Console.ReadLine()));
 
                 carSpeed.Start_car();
                 carSpeed.get_velocity();

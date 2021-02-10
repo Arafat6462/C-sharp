@@ -40,7 +40,10 @@ namespace CafeManagement
             this.panel2 = new System.Windows.Forms.Panel();
             this.guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2Elipse2 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
+            this.guna2Elipse3 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
+            this.uC_Welcome1 = new CafeManagement.AllUserControls.UC_Welcome();
             this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -186,6 +189,7 @@ namespace CafeManagement
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.panel2.Controls.Add(this.uC_Welcome1);
             this.panel2.Location = new System.Drawing.Point(322, 6);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(970, 705);
@@ -202,6 +206,18 @@ namespace CafeManagement
             this.guna2Elipse2.BorderRadius = 30;
             this.guna2Elipse2.TargetControl = this.panel2;
             // 
+            // guna2Elipse3
+            // 
+            this.guna2Elipse3.BorderRadius = 30;
+            this.guna2Elipse3.TargetControl = this.panel2;
+            // 
+            // uC_Welcome1
+            // 
+            this.uC_Welcome1.Location = new System.Drawing.Point(11, 19);
+            this.uC_Welcome1.Name = "uC_Welcome1";
+            this.uC_Welcome1.Size = new System.Drawing.Size(923, 478);
+            this.uC_Welcome1.TabIndex = 0;
+            // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -216,6 +232,7 @@ namespace CafeManagement
             this.Text = "Dashboard";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            this.panel2.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -232,5 +249,7 @@ namespace CafeManagement
         private Guna.UI2.WinForms.Guna2Elipse guna2Elipse1;
         private Guna.UI2.WinForms.Guna2Elipse guna2Elipse2;
         private System.Windows.Forms.LinkLabel btnLogOut;
+        private Guna.UI2.WinForms.Guna2Elipse guna2Elipse3;
+        private AllUserControls.UC_Welcome uC_Welcome1;
     }
 }
