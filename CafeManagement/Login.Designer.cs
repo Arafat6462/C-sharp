@@ -78,6 +78,7 @@ namespace CafeManagement
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(193, 22);
             this.txtUsername.TabIndex = 4;
+            this.txtUsername.Text = "a";
             // 
             // txtUserpassword
             // 
@@ -85,6 +86,7 @@ namespace CafeManagement
             this.txtUserpassword.Name = "txtUserpassword";
             this.txtUserpassword.Size = new System.Drawing.Size(193, 22);
             this.txtUserpassword.TabIndex = 4;
+            this.txtUserpassword.Text = "a";
             this.txtUserpassword.UseSystemPasswordChar = true;
             // 
             // btnLogin

@@ -29,7 +29,7 @@ namespace CafeManagement
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(txtUsername.Text == "arafat" && txtUserpassword.Text == "pass")
+            if(txtUsername.Text == "a" && txtUserpassword.Text == "a")
             {
                 Dashboard dashboard = new Dashboard("Admin");
                 dashboard.Show();
