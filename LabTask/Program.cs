@@ -19,40 +19,54 @@ namespace LabTask
         
         public bool Start { get => start; set => start = value; }
 
-        public void set_acceleration(float acceleration)
+        public float set_acceleration 
         {
-            this.acceleration = acceleration;
-            Console.WriteLine("Acceleration is : "+acceleration);
+            set
+            {
+                acceleration = value;
+                Console.WriteLine("Acceleration is : " + acceleration);
+            }
         }
-        public void set_engin_number(String engin_number)
+        public String set_engin_number 
         {
-            this.engin_number = engin_number;
-            Console.WriteLine("Engein number of a car set to : "+engin_number);
+            set
+            {
+                 engin_number = value;
+                Console.WriteLine("Engein number of a car set to : " + engin_number);
+            }
         } 
-        public float get_velocity()
+        public float get_velocity() 
         {
-            if (Start)
-            {
-                Console.WriteLine("Velocity of the car after "+time+"'s is "+ (acceleration*time));
-                return acceleration * time;
-            }
-            else
-            {
-                Console.WriteLine("start the car first then retrive velocity after acceleration.");
-                return 0;
-            }
+             
+                if (Start)
+                {
+                    Console.WriteLine("Velocity of the car after " + time + "'s is " + (acceleration * time));
+                    return acceleration * time;
+                }
+                else
+                {
+                    Console.WriteLine("start the car first then retrive velocity after acceleration.");
+                    return 0;
+                }
+            
         }
 
-        public void Start_car()
+        public bool Start_car
         {
-            Start = true;
-            Console.WriteLine("\nCar start successfully");
+            set
+            {
+                Start = value;
+                Console.WriteLine("\nCar start successfully");
+            }
         }
         
-        public void Stop_car()
+        public bool Stop_car
         {
-            Start = false;
-            Console.WriteLine("Car stop successfully");
+            set
+            {
+                Start = value;
+                Console.WriteLine("Car stop successfully");
+            }
         }
         
 
@@ -65,17 +79,17 @@ namespace LabTask
                 CarSpeed carSpeed = new CarSpeed();
 
                 Console.Write("\nEnter the engine number : ");
-                carSpeed.set_engin_number(Console.ReadLine());
+                carSpeed.set_engin_number = Console.ReadLine();
 
                 Console.Write("\nEnter the acceleration : ");
-                carSpeed.set_acceleration(float.Parse(Console.ReadLine()));
+                carSpeed.set_acceleration = float.Parse(Console.ReadLine());
 
                 Console.Write("\nEnter the time : ");
                 carSpeed.time = float.Parse((Console.ReadLine()));
 
-                carSpeed.Start_car();
+                carSpeed.Start_car = true;
                 carSpeed.get_velocity();
-                carSpeed.Stop_car();
+                carSpeed.Stop_car = false;
                 Console.WriteLine("\n\n\n");
             }
 
