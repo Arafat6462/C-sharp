@@ -1,0 +1,7 @@
+C:\Users\Arafa\source\repos\FinalTaskForMid\bin\Debug\FinalTaskForMid.exe.config
+C:\Users\Arafa\source\repos\FinalTaskForMid\bin\Debug\FinalTaskForMid.exe
+C:\Users\Arafa\source\repos\FinalTaskForMid\bin\Debug\FinalTaskForMid.pdb
+C:\Users\Arafa\source\repos\FinalTaskForMid\obj\Debug\FinalTaskForMid.csprojAssemblyReference.cache
+C:\Users\Arafa\source\repos\FinalTaskForMid\obj\Debug\FinalTaskForMid.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\source\repos\FinalTaskForMid\obj\Debug\FinalTaskForMid.exe
+C:\Users\Arafa\source\repos\FinalTaskForMid\obj\Debug\FinalTaskForMid.pdb
