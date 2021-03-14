@@ -1,0 +1,5 @@
+/home/arafat/Documents/C-sharp/from linux/obj/Debug/net5.0/from linux.csprojAssemblyReference.cache
+/home/arafat/Documents/C-sharp/from linux/obj/Debug/net5.0/from linux.GeneratedMSBuildEditorConfig.editorconfig
+/home/arafat/Documents/C-sharp/from linux/obj/Debug/net5.0/from linux.AssemblyInfoInputs.cache
+/home/arafat/Documents/C-sharp/from linux/obj/Debug/net5.0/from linux.AssemblyInfo.cs
+/home/arafat/Documents/C-sharp/from linux/obj/Debug/net5.0/from linux.csproj.CoreCompileInputs.cache

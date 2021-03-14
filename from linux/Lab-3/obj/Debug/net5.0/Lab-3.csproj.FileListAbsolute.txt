@@ -1,0 +1,16 @@
+/home/arafat/Documents/C-sharp/from linux/Lab-3/obj/Debug/net5.0/Lab-3.csprojAssemblyReference.cache
+/home/arafat/Documents/C-sharp/from linux/Lab-3/obj/Debug/net5.0/Lab-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/arafat/Documents/C-sharp/from linux/Lab-3/obj/Debug/net5.0/Lab-3.AssemblyInfoInputs.cache
+/home/arafat/Documents/C-sharp/from linux/Lab-3/obj/Debug/net5.0/Lab-3.AssemblyInfo.cs
+/home/arafat/Documents/C-sharp/from linux/Lab-3/obj/Debug/net5.0/Lab-3.csproj.CoreCompileInputs.cache
+/home/arafat/Documents/C-sharp/from linux/Lab-3/bin/Debug/net5.0/Lab-3
+/home/arafat/Documents/C-sharp/from linux/Lab-3/bin/Debug/net5.0/Lab-3.deps.json
+/home/arafat/Documents/C-sharp/from linux/Lab-3/bin/Debug/net5.0/Lab-3.runtimeconfig.json
+/home/arafat/Documents/C-sharp/from linux/Lab-3/bin/Debug/net5.0/Lab-3.runtimeconfig.dev.json
+/home/arafat/Documents/C-sharp/from linux/Lab-3/bin/Debug/net5.0/Lab-3.dll
+/home/arafat/Documents/C-sharp/from linux/Lab-3/bin/Debug/net5.0/ref/Lab-3.dll
+/home/arafat/Documents/C-sharp/from linux/Lab-3/bin/Debug/net5.0/Lab-3.pdb
+/home/arafat/Documents/C-sharp/from linux/Lab-3/obj/Debug/net5.0/Lab-3.dll
+/home/arafat/Documents/C-sharp/from linux/Lab-3/obj/Debug/net5.0/ref/Lab-3.dll
+/home/arafat/Documents/C-sharp/from linux/Lab-3/obj/Debug/net5.0/Lab-3.pdb
+/home/arafat/Documents/C-sharp/from linux/Lab-3/obj/Debug/net5.0/Lab-3.genruntimeconfig.cache
