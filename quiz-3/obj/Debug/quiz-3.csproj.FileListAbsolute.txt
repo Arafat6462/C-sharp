@@ -1,0 +1,7 @@
+C:\Users\Arafa\source\repos\quiz-3\bin\Debug\quiz-3.exe.config
+C:\Users\Arafa\source\repos\quiz-3\bin\Debug\quiz-3.exe
+C:\Users\Arafa\source\repos\quiz-3\bin\Debug\quiz-3.pdb
+C:\Users\Arafa\source\repos\quiz-3\obj\Debug\quiz-3.csprojAssemblyReference.cache
+C:\Users\Arafa\source\repos\quiz-3\obj\Debug\quiz-3.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\source\repos\quiz-3\obj\Debug\quiz-3.exe
+C:\Users\Arafa\source\repos\quiz-3\obj\Debug\quiz-3.pdb

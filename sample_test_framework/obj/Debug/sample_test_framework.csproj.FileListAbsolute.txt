@@ -1,0 +1,7 @@
+C:\Users\Arafa\OneDrive\Documents\C#\sample_test_framework\bin\Debug\sample_test_framework.exe.config
+C:\Users\Arafa\OneDrive\Documents\C#\sample_test_framework\bin\Debug\sample_test_framework.exe
+C:\Users\Arafa\OneDrive\Documents\C#\sample_test_framework\bin\Debug\sample_test_framework.pdb
+C:\Users\Arafa\OneDrive\Documents\C#\sample_test_framework\obj\Debug\sample_test_framework.csprojAssemblyReference.cache
+C:\Users\Arafa\OneDrive\Documents\C#\sample_test_framework\obj\Debug\sample_test_framework.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\OneDrive\Documents\C#\sample_test_framework\obj\Debug\sample_test_framework.exe
+C:\Users\Arafa\OneDrive\Documents\C#\sample_test_framework\obj\Debug\sample_test_framework.pdb

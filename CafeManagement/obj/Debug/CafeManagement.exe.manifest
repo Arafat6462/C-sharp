@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CafeManagement.exe" size="45536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CafeManagement.exe" size="8432608">
       <assemblyIdentity name="CafeManagement" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>vI3p+QB9JxkK+UJZ1EYMVOpy8HhgQQfFqg2vhlR767w=</dsig:DigestValue>
+        <dsig:DigestValue>YD3bXdykcMoigEXbtRNYCcAjhQ/RFwKouKQDWn1NZZ8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,6 +62,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>q51qs/eZdM0bxSFJ2R+2p9IQsKmoXHeNv1kbkI+kpYw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualBasic.PowerPacks.dll" size="352256">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ge3qaWpdQthkHqvQPFfRHEI2kVtIQVfVJ0MEY0RDClA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
