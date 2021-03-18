@@ -1,0 +1,16 @@
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/bin/Debug/net5.0/2nd class-04
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/bin/Debug/net5.0/2nd class-04.deps.json
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/bin/Debug/net5.0/2nd class-04.runtimeconfig.json
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/bin/Debug/net5.0/2nd class-04.runtimeconfig.dev.json
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/bin/Debug/net5.0/2nd class-04.dll
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/bin/Debug/net5.0/ref/2nd class-04.dll
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/bin/Debug/net5.0/2nd class-04.pdb
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/obj/Debug/net5.0/2nd class-04.csprojAssemblyReference.cache
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/obj/Debug/net5.0/2nd class-04.GeneratedMSBuildEditorConfig.editorconfig
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/obj/Debug/net5.0/2nd class-04.AssemblyInfoInputs.cache
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/obj/Debug/net5.0/2nd class-04.AssemblyInfo.cs
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/obj/Debug/net5.0/2nd class-04.csproj.CoreCompileInputs.cache
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/obj/Debug/net5.0/2nd class-04.dll
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/obj/Debug/net5.0/ref/2nd class-04.dll
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/obj/Debug/net5.0/2nd class-04.pdb
+/home/arafat/Documents/C-sharp/C# Jahid Hassan sir/2nd class-04/obj/Debug/net5.0/2nd class-04.genruntimeconfig.cache
