@@ -1,0 +1,9 @@
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab_2\bin\Debug\FinalLab_2.exe.config
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab_2\bin\Debug\FinalLab_2.exe
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab_2\bin\Debug\FinalLab_2.pdb
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab_2\obj\Debug\FinalLab_2.csprojAssemblyReference.cache
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab_2\obj\Debug\FinalLab_2.Properties.Resources.resources
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab_2\obj\Debug\FinalLab_2.csproj.GenerateResource.cache
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab_2\obj\Debug\FinalLab_2.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab_2\obj\Debug\FinalLab_2.exe
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab_2\obj\Debug\FinalLab_2.pdb

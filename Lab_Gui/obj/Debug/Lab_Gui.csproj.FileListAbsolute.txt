@@ -1,0 +1,10 @@
+C:\Users\Arafa\OneDrive\Documents\C#\Lab_Gui\bin\Debug\Lab_Gui.exe.config
+C:\Users\Arafa\OneDrive\Documents\C#\Lab_Gui\bin\Debug\Lab_Gui.exe
+C:\Users\Arafa\OneDrive\Documents\C#\Lab_Gui\bin\Debug\Lab_Gui.pdb
+C:\Users\Arafa\OneDrive\Documents\C#\Lab_Gui\obj\Debug\Lab_Gui.csprojAssemblyReference.cache
+C:\Users\Arafa\OneDrive\Documents\C#\Lab_Gui\obj\Debug\Lab_Gui.Properties.Resources.resources
+C:\Users\Arafa\OneDrive\Documents\C#\Lab_Gui\obj\Debug\Lab_Gui.csproj.GenerateResource.cache
+C:\Users\Arafa\OneDrive\Documents\C#\Lab_Gui\obj\Debug\Lab_Gui.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\OneDrive\Documents\C#\Lab_Gui\obj\Debug\Lab_Gui.exe
+C:\Users\Arafa\OneDrive\Documents\C#\Lab_Gui\obj\Debug\Lab_Gui.pdb
+C:\Users\Arafa\OneDrive\Documents\C#\Lab_Gui\obj\Debug\Lab_Gui.form.resources

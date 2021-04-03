@@ -1,0 +1,7 @@
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab\bin\Debug\FinalLab.exe.config
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab\bin\Debug\FinalLab.exe
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab\bin\Debug\FinalLab.pdb
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab\obj\Debug\FinalLab.csprojAssemblyReference.cache
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab\obj\Debug\FinalLab.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab\obj\Debug\FinalLab.exe
+C:\Users\Arafa\OneDrive\Documents\C#\FinalLab\obj\Debug\FinalLab.pdb
